@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tane4ka170.github.io/project_blackout/",
+  "homepage": "https://GoitStudentsWorks.github.io/bc_react_61_Tane4ka170/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.2",
     "@reduxjs/toolkit": "^1.9.7",
