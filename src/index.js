@@ -14,7 +14,7 @@ import { GlobalStyles } from 'styles/GlobalStyles';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/project_blackout">
+    <BrowserRouter basename="/bc_react_61_Tane4ka170">
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <App />
